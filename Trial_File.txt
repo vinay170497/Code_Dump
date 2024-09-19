@@ -1,1 +1,2 @@
 This is trial file which is commited via git
+another line added
